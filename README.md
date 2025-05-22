@@ -21,20 +21,20 @@ This bot is a translator of legal terms with support for Russian and English lan
    git clone https://github.com/ваш-username/ltt-bot.git
    cd ltt-bot
    ```
-2. **Установите зависимости**:
-  ```
-  pip install -r requirements.txt
-  ```
+3. **Установите зависимости**:
+   ```
+   pip install -r requirements.txt
+   ```
 3. **Настройте бота**:
   - Получите токен у @BotFather
   - Вставьте его в файл config.py:
-  ```
-  TOKEN = "ваш_токен"
-  ```
+    ```
+    TOKEN = "ваш_токен"
+    ```
 4. **Запустите бота**:
-  ```
-  python bot.py
-  ```
+   ```
+   python bot.py
+   ```
 ### Команды
 - /start - приветственное сообщение
 - /help	- справка по использованию
