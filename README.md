@@ -4,6 +4,8 @@
 
 This bot is a translator of legal terms with support for Russian and English languages. It helps lawyers, students, and translators quickly find exact equivalents of legal concepts. 
 
+[Гид по установке](https://github.com/lisdonut/law-term-bot/blob/main/installation-guide.docx)
+
 ## Возможности
 - Перевод юридических терминов (**EN ↔ RU**)  
 - Поиск контекстных значений для сложных понятий  
